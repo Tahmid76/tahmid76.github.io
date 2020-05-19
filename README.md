@@ -1,8 +1,7 @@
-# tahmid76.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <html lang="en">
+  
   <meta charset="utf-8">
   <title>Tahmid's Website</title>
 <link rel="stylesheet" href="styles.css">
@@ -16,7 +15,7 @@
     <br>
     <br>
 
-    <h1 align="center"id="a">Md. Tahmid Hossain</h1>
+    <h1 align="center" id="a">Md. Tahmid Hossain</h1>
     <br>
     <h2 align="center" id="bio"><i>Dreamer,Knowledge Hunter,Truth Finder</i></h2>
   </div>
