@@ -1,0 +1,51 @@
+body{
+  background-color:#00001D;
+  color:#B0B0BD;
+  font-size:20px;
+}
+details{
+  background-color:#1B1B55 ;
+ 
+}
+summary{
+   font-size:30px;
+}
+#int{
+  font-size:25px;
+}
+#skil{
+  font-size:25px;
+}
+table, th, td {
+  border: 2px solid white;
+}
+#bio{
+  background-color:yellow;
+  color:blue;
+}
+#a{
+  background-color:black;
+}
+#e{
+   background-color:#0EA9BB;
+  color:#0E33BB;
+}
+#i{
+   background-color:#0EA9BB;
+  color:#0E33BB;
+}
+#l{
+   background-color:#0EA9BB;
+  color:#0E33BB;
+}
+#s{
+   background-color:#0EA9BB;
+  color:#0E33BB;
+}
+#c{
+   background-color:#0EA9BB;
+  color:#0E33BB;
+}
+#im{
+	shape:circle;
+}
